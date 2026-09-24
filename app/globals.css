@@ -22,6 +22,11 @@
 
 /* Base rules live in a layer so Tailwind utilities can override them */
 @layer base {
+  /* Mobile browsers ignore overflow-x on <body>; clipping on <html> stops stray wide elements from zooming the page out */
+  html {
+    overflow-x: clip;
+  }
+
   * {
     box-sizing: border-box;
     padding: 0;

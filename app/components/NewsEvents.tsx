@@ -27,7 +27,7 @@ export default function NewsEvents() {
           </p>
         </Reveal>
 
-        <div className="grid items-start gap-5 lg:grid-cols-[minmax(0,1fr)_minmax(0,1.15fr)]">
+        <div className="grid grid-cols-[minmax(0,1fr)] items-start gap-5 lg:grid-cols-[minmax(0,1fr)_minmax(0,1.15fr)]">
           {/* Featured event */}
           <Reveal>
             <Link
