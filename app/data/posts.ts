@@ -44,8 +44,7 @@ const allPosts: Post[] = [
     readTime: 6,
     excerpt:
       "Explore the origins of one of the most iconic chain styles in modern jewellery and why it remains a staple of luxury today.",
-    image: "/images/featured/miami-cuban.jpg",
-    imageFit: "contain",
+    image: "/images/blog/gold-heritage.jpg",
     body: [
       "Few chains are as instantly recognisable as the Miami Cuban link. Its thick, interlocking oval links lie flat against the skin, creating a bold yet surprisingly comfortable piece that has become a symbol of confidence and success.",
       { h: "Born in Miami" },
@@ -64,8 +63,7 @@ const allPosts: Post[] = [
     date: "2026-09-04",
     readTime: 4,
     excerpt: "Expert tips on cleaning, storing and maintaining the lustre of your solid gold chains so they shine for generations.",
-    image: "/images/featured/rope-chain.jpg",
-    imageFit: "contain",
+    image: "/images/blog/gold-care.jpg",
     body: [
       "Solid gold is one of the most durable materials in fine jewellery, but a little regular care keeps it looking its absolute best.",
       { h: "Clean gently, clean often" },
